@@ -10,6 +10,7 @@ dask-ml = "*"
 keras = "*"
 numpy = "*"
 scikit-learn = "*"
+tensorflow = "*"
 
 [requires]
 python_version = "3.5"
